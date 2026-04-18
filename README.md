@@ -1,1 +1,1 @@
-# superplanehq2026
+# deploy-risk-demo-sp
